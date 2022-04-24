@@ -17,3 +17,4 @@ else:
         print("as raízes da equação são", r1, "e", r2)
     else:
         print("as raízes da equação são", r2, "e", r1)
+
